@@ -1,0 +1,6 @@
+2020-01-13 18:00:26,165[level-WARNING][root]:logging.warning
+2020-01-13 18:00:26,165[level-ERROR][root]:logging.error
+2020-01-13 18:00:28,170[level-WARNING][root]:logging.warning
+2020-01-13 18:00:28,170[level-ERROR][root]:logging.error
+2020-01-13 18:00:30,175[level-WARNING][root]:logging.warning
+2020-01-13 18:00:30,176[level-ERROR][root]:logging.error

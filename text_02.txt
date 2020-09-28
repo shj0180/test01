@@ -1,0 +1,43 @@
+(dsf:01;fdsf)
+
+id(dsf:2201;fd22sf),
+
+	ID bigint(20) Not NULL Auto_increment Comment 'id(dsf:01;fdsf;dgdg)，
+
+create table t_opbs_task_lock (
+	ID bigint(20) Not NULL Auto_increment Comment 'id(dsf:01,fdsf,dgdg)，
+	busuness_type varchar(100) Not Null Comment ''，
+	busuness_id varchar(100) Not Null Comment 'id'，
+	task_status int(10) Not Null Comment ' 0  1 '，
+);
+
+
+alter table T_fbs_shelf_panel add prod_supplier varchar2；
+comment on column T_Fbs_shelf_panel.prod_supplier is ''；
+
+alter table T_fbs_shelf_info add prod_supplier varchar2；
+comment on column T_Fbs_shelf_panel.prod_supplier is ''；
+
+create table t_opbs_task_lock (
+	ID bigint(20) Not NULL Auto_increment Comment 'id(dsf:01;fdsf;dgdg)，
+	busuness_type varchar(100) Not Null Comment ''，
+	busuness_id varchar(100) Not Null Comment 'id'，
+	task_status int(10) Not Null Comment ' 0  1 '，
+);
+
+--comment
+alter table alter table T_fbs_shelf_panel add prod_supplier varchar2；
+comment on column T_Fbs_shelf_panel.prod_supplier is ''；
+
+alter table T_fbs_shelf_info add prod_supplier varchar2；
+comment on column T_Fbs_shelf_panel.prod_supplier is ''；
+
+create table t_opbs_task_lock (
+	ID bigint(20) Not NULL Auto_increment Comment 'id(dsf:01;fdsf;dgdg)，
+	busuness_type varchar(100) Not Null Comment ''，
+	busuness_id varchar(100) Not Null Comment 'id'，
+	task_status int(10) Not Null Comment ' 0  1 '，
+);
+
+--comment
+alter table t_opbs_cny_trade add trans_means varchar2; add trans_means varchar2;

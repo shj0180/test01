@@ -1,0 +1,8 @@
+test_add_two_negative (lemon_class_unittest.s_58_unittest.TestMathMenth) ... ok
+test_add_two_positive (lemon_class_unittest.s_58_unittest.TestMathMenth) ... ok
+test_add_two_zero (lemon_class_unittest.s_58_unittest.TestMathMenth) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
