@@ -1,4 +1,4 @@
-dict = {'tt': 123}
+dict = {'tt': 123,'tt1': 234}
 list = ['tt']
 # print(list[0])
 # list[0] = dict[list[0]]
@@ -9,19 +9,22 @@ list = ['tt']
 # print(tt)
 # tt =12
 
-def get(str):
-    return dict[str]
+# def get(str):
+#     return dict[str]
+#
+#
+# for i in list:
+#     # print(i)
+#     # print(type(i))
+#     res = get(i)
+#     print(res)
 
 
-for i in list:
-    # print(i)
-    # print(type(i))
-    res = get(i)
-    print(res)
+print(dict.values())
+for i in dict.values():
+    print(i)
 
-
-
-
+print(dict.items())
 
 
 
