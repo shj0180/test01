@@ -26,6 +26,6 @@ for i in dict.values():
 
 print(dict.items())
 
-
+ellipsis
 
 
